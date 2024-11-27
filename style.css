@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.green{
+    width: 900px; 
+    height: 945px; 
+    background-color: rgb(6, 133, 122); 
+    margin-left: 1020px;
+    margin-top: -130px;
+}
+
+.name{
+    margin-left: 275px;
+    position: relative;
+    top: 150px;
+}
+
+.info_1{
+    margin-left: 275px;
+    position: relative;
+    top: 155px;
+}
+
+.info_2{
+    margin-left: 275px;
+    position: relative;
+    top: 275px;
+}
